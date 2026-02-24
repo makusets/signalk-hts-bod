@@ -1,14 +1,16 @@
 {
-  "name": "signalk-hts-bod",
-  "version": "0.1.0",
-  "description": "Signal K plugin that generates NMEA0183 BOD heading-to-steer sentences with Hold/+/- controls.",
+  "name": "signalk-hts-bod-apb",
+  "version": "0.2.0",
+  "description": "Signal K plugin: Heading Hold (BOD) and Track Hold (APB) autopilot output with best-available data sources.",
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin",
     "signalk",
     "nmea0183",
     "autopilot",
-    "BOD"
+    "BOD",
+    "APB",
+    "XTE"
   ],
   "author": "@makusets",
   "license": "MIT",
