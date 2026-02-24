@@ -10,7 +10,7 @@
     "autopilot",
     "BOD"
   ],
-  "author": "YOUR NAME",
+  "author": "@makusets",
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2"
